@@ -1,1 +1,1 @@
-# arduino_remote_controller
+# arduino-remote-controller
